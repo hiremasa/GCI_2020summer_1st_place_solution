@@ -1,1 +1,2 @@
 # GCI_2020summer_1st_place_solution
+GCI(東京大学グローバル消費インテリジェンス寄付講座) 2020年度第一回コンペ1st place solution
